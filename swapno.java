@@ -18,8 +18,7 @@ public class JavaProgram
         num1 = num2;
         num2 = swap;
 		
-        System.out.print("The Value of the First and Second Number after Swapping is \n");
-		
+        System.out.print("The Value of the First and Second Number after Swapping is \n");	
         System.out.print("First Number = " +num1);
         System.out.print("\nSecond Number = " +num2);
     }

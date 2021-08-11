@@ -8,8 +8,7 @@ public class JavaProgram
         Scanner scan = new Scanner(System.in);
 		
         System.out.print("Enter Two Number : ");
-		
-        System.out.print("\nFirst Number : ");
+	System.out.print("\nFirst Number : ");
         num1 = scan.nextInt();
         System.out.print("Second Number : ");
         num2 = scan.nextInt();

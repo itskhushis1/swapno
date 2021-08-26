@@ -10,6 +10,7 @@ public class JavaProgram
 		
         System.out.print("Enter Two Number : ");
 	System.out.print("\nFirst Number : ");
+	    
         num1 = scan.nextInt();
         System.out.print("Second Number : ");
         num2 = scan.nextInt();
